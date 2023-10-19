@@ -1,1 +1,3 @@
 Tanzania Water Wells Project
+
+Tanzania is a developing country with a population of over 59 million citizens. It is faced with a challenge of having to provide clean and drinkable water to th epopulation. To try and curb this, many water wells have been dug over the years. This challenge will try to understand and predict the functional pumps, pumps that need some repair, and pumps that do not work at all. We will make use of original data obtained by the [DrivenData 'Pump it Up: Data Mining the Water Table' competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/).
